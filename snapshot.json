@@ -1,0 +1,10 @@
+{
+  "snapshot_date": "2026-10-27",
+  "skill_version": "0.0.2",
+  "upstream": "https://github.com/pengqianhan/codex-paper-figure-skill",
+  "source": "Installed local skill snapshot; exact file copies",
+  "files_sha256": {
+    "SKILL.md": "01d0960b7bb6c3060743da5cf558dd2c1238003e54ecfa70f2de7f2904821c54",
+    "agents/openai.yaml": "6c9908acea60a6c583afe3c1a558f46bc9cd2d3de635c1e6d79a6531a9bf70aa"
+  }
+}
